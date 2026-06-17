@@ -1,0 +1,13 @@
+# Hasil unduhan (gambar & PDF) — jangan di-commit
+downloads/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# File debug/probe sementara
+dbg_*.html
+dbg_*.txt
+probe*.py
